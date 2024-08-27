@@ -6,8 +6,11 @@ this code needs work man.
 
 # Dog
 **This is important**
+
 *italics*
+
 [The text want to show](https://github.com/joshuatmeadows/SampleProject?tab=readme-ov-file#sampleproject)
+
 - list item 1
 - list item 2
 - list item 3
